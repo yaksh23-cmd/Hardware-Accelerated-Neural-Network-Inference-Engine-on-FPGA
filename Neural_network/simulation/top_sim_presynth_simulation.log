@@ -1,0 +1,423 @@
+# Reading pref.tcl
+# do run.do
+# INFO: Simulation library presynth already exists
+# Model Technology ModelSim Microsemi Pro vmap 2024.3 Lib Mapping Utility 2024.09 Sep 11 2024
+# vmap presynth presynth 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi Pro vmap 2024.3 Lib Mapping Utility 2024.09 Sep 11 2024
+# vmap polarfire C:/Microchip/Libero_SoC_2025.2/Libero_SoC/Designer/lib/modelsimpro/precompiled/vlog/polarfire 
+# Modifying modelsim.ini
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:33 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/axi_lite_wrapper.v 
+# -- Compiling module axi_lite_wrapper
+# 
+# Top level modules:
+# 	axi_lite_wrapper
+# End time: 18:45:33 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:34 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/relu.v 
+# -- Compiling module ReLU
+# 
+# Top level modules:
+# 	ReLU
+# End time: 18:45:34 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:34 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/Sig_ROM.v 
+# -- Compiling module Sig_ROM
+# 
+# Top level modules:
+# 	Sig_ROM
+# End time: 18:45:34 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:35 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v 
+# -- Compiling module Weight_Memory
+# 
+# Top level modules:
+# 	Weight_Memory
+# End time: 18:45:35 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:35 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/neuron.v 
+# -- Compiling module neuron
+# 
+# Top level modules:
+# 	neuron
+# End time: 18:45:35 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:36 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/Layer_1.v 
+# -- Compiling module Layer_1
+# 
+# Top level modules:
+# 	Layer_1
+# End time: 18:45:36 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:36 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/Layer_2.v 
+# -- Compiling module Layer_2
+# 
+# Top level modules:
+# 	Layer_2
+# End time: 18:45:36 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:37 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/Layer_3.v 
+# -- Compiling module Layer_3
+# 
+# Top level modules:
+# 	Layer_3
+# End time: 18:45:37 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:37 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/Layer_4.v 
+# -- Compiling module Layer_4
+# 
+# Top level modules:
+# 	Layer_4
+# End time: 18:45:37 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:38 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/maxFinder.v 
+# -- Compiling module maxFinder
+# 
+# Top level modules:
+# 	maxFinder
+# End time: 18:45:38 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:38 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" -sv -work presynth C:/Microchip_projects/personal/Neural_network/hdl/zynet.v 
+# -- Compiling module zyNet
+# 
+# Top level modules:
+# 	zyNet
+# End time: 18:45:38 on Jul 11,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim Microsemi Pro vlog 2024.3 Compiler 2024.09 Sep 11 2024
+# Start time: 18:45:38 on Jul 11,2026
+# vlog -reportprogress 300 "+incdir+C:/Microchip_projects/personal/Neural_network/hdl" "+incdir+C:/Microchip_projects/personal/Neural_network/stimulus" -sv -work presynth C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v 
+# -- Compiling module top_sim
+# 
+# Top level modules:
+# 	top_sim
+# End time: 18:45:39 on Jul 11,2026, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vsim -L polarfire -L presynth -t 1ps -pli "C:/Microchip/Libero_SoC_2025.2/Libero_SoC/Designer/lib/modelsimpro/pli/pf_crypto_win_me_pli.dll" presynth.top_sim 
+# Start time: 18:45:39 on Jul 11,2026
+# //  ModelSim Microsemi Pro 2024.3 Sep 11 2024
+# //
+# // Unpublished work. Copyright 2024 Siemens
+# //
+# // This material contains trade secrets or otherwise confidential information
+# // owned by Siemens Industry Software Inc. or its affiliates (collectively,
+# // "SISW"), or its licensors. Access to and use of this information is strictly
+# // limited as set forth in the Customer's applicable agreements with SISW.
+# //
+# // This material may not be copied, distributed, or otherwise disclosed outside
+# // of the Customer's facilities without the express written permission of SISW,
+# // and may not be used in any way not expressly authorized by SISW.
+# //
+# Loading sv_std.std
+# Loading presynth.top_sim
+# Loading presynth.zyNet
+# Loading presynth.axi_lite_wrapper
+# Loading presynth.Layer_1
+# Loading presynth.neuron
+# Loading presynth.Weight_Memory
+# Loading presynth.Layer_2
+# Loading presynth.Layer_3
+# Loading presynth.Layer_4
+# Loading presynth.maxFinder
+# Loading presynth.Sig_ROM
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (32) for port 's_axi_awaddr'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/zynet.v(36).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut File: C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v Line: 73
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (32) for port 's_axi_awprot'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/zynet.v(37).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut File: C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v Line: 73
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (32) for port 's_axi_araddr'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/zynet.v(47).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut File: C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v Line: 73
+# ** Warning: (vsim-3015) [PCDPC] - Port size (3) does not match connection size (32) for port 's_axi_arprot'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/zynet.v(48).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut File: C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v Line: 73
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_0/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_1/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_2/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_3/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_4/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_5/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_6/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_7/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_8/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_9/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_10/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_11/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_12/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_13/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_14/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_15/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_16/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_17/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_18/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_19/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_20/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_21/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_22/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_23/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_24/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_25/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_26/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_27/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_28/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (10) does not match connection size (11) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l1/n_29/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_0/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_1/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_2/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_3/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_4/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_5/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_6/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_7/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_8/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_9/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_10/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_11/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_12/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_13/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_14/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_15/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_16/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_17/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_18/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_19/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_20/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_21/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_22/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_23/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_24/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_25/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_26/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_27/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_28/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l2/n_29/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l3/n_0/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l3/n_1/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l3/n_2/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l3/n_3/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l3/n_4/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l3/n_5/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l3/n_6/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l3/n_7/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l3/n_8/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (5) does not match connection size (6) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l3/n_9/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l4/n_0/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l4/n_1/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l4/n_2/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l4/n_3/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l4/n_4/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l4/n_5/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l4/n_6/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l4/n_7/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l4/n_8/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (5) for port 'radd'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v(29).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/l4/n_9/WM File: C:/Microchip_projects/personal/Neural_network/hdl/neuron.v Line: 167
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (10) for port 'i_valid'. The port definition is at: C:/Microchip_projects/personal/Neural_network/hdl/maxFinder.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /top_sim/dut/mFind File: C:/Microchip_projects/personal/Neural_network/hdl/zynet.v Line: 375
+# Loading C:/Microchip/Libero_SoC_2025.2/Libero_SoC/Designer/lib/modelsimpro/pli/pf_crypto_win_me_pli.dll
+# Configuration completed                      0 ns
+run -all
+# 1. Accuracy: 100.000000, Detected number: 7, Expected: 0007
+# 2. Accuracy: 100.000000, Detected number: 2, Expected: 0002
+# 3. Accuracy: 100.000000, Detected number: 1, Expected: 0001
+# 4. Accuracy: 100.000000, Detected number: 0, Expected: 0000
+# 5. Accuracy: 100.000000, Detected number: 4, Expected: 0004
+# 6. Accuracy: 100.000000, Detected number: 1, Expected: 0001
+# 7. Accuracy: 100.000000, Detected number: 4, Expected: 0004
+# 8. Accuracy: 100.000000, Detected number: 9, Expected: 0009
+# 9. Accuracy: 88.888889, Detected number: 6, Expected: 0005
+# 10. Accuracy: 90.000000, Detected number: 9, Expected: 0009
+# 11. Accuracy: 90.909091, Detected number: 0, Expected: 0000
+# 12. Accuracy: 91.666667, Detected number: 6, Expected: 0006
+# 13. Accuracy: 92.307692, Detected number: 9, Expected: 0009
+# 14. Accuracy: 92.857143, Detected number: 0, Expected: 0000
+# 15. Accuracy: 93.333333, Detected number: 1, Expected: 0001
+# 16. Accuracy: 93.750000, Detected number: 5, Expected: 0005
+# 17. Accuracy: 94.117647, Detected number: 9, Expected: 0009
+# 18. Accuracy: 94.444444, Detected number: 7, Expected: 0007
+# 19. Accuracy: 89.473684, Detected number: 8, Expected: 0003
+# 20. Accuracy: 90.000000, Detected number: 4, Expected: 0004
+# 21. Accuracy: 90.476190, Detected number: 9, Expected: 0009
+# 22. Accuracy: 90.909091, Detected number: 6, Expected: 0006
+# 23. Accuracy: 91.304348, Detected number: 6, Expected: 0006
+# 24. Accuracy: 91.666667, Detected number: 5, Expected: 0005
+# 25. Accuracy: 92.000000, Detected number: 4, Expected: 0004
+# 26. Accuracy: 92.307692, Detected number: 0, Expected: 0000
+# 27. Accuracy: 92.592593, Detected number: 7, Expected: 0007
+# 28. Accuracy: 92.857143, Detected number: 4, Expected: 0004
+# 29. Accuracy: 93.103448, Detected number: 0, Expected: 0000
+# 30. Accuracy: 93.333333, Detected number: 1, Expected: 0001
+# 31. Accuracy: 93.548387, Detected number: 3, Expected: 0003
+# 32. Accuracy: 93.750000, Detected number: 1, Expected: 0001
+# 33. Accuracy: 93.939394, Detected number: 3, Expected: 0003
+# 34. Accuracy: 94.117647, Detected number: 4, Expected: 0004
+# 35. Accuracy: 94.285714, Detected number: 7, Expected: 0007
+# 36. Accuracy: 94.444444, Detected number: 2, Expected: 0002
+# 37. Accuracy: 94.594595, Detected number: 7, Expected: 0007
+# 38. Accuracy: 94.736842, Detected number: 1, Expected: 0001
+# 39. Accuracy: 94.871795, Detected number: 2, Expected: 0002
+# 40. Accuracy: 95.000000, Detected number: 1, Expected: 0001
+# 41. Accuracy: 95.121951, Detected number: 1, Expected: 0001
+# 42. Accuracy: 95.238095, Detected number: 7, Expected: 0007
+# 43. Accuracy: 95.348837, Detected number: 4, Expected: 0004
+# 44. Accuracy: 95.454545, Detected number: 2, Expected: 0002
+# 45. Accuracy: 95.555556, Detected number: 3, Expected: 0003
+# 46. Accuracy: 95.652174, Detected number: 5, Expected: 0005
+# 47. Accuracy: 95.744681, Detected number: 1, Expected: 0001
+# 48. Accuracy: 95.833333, Detected number: 2, Expected: 0002
+# 49. Accuracy: 95.918367, Detected number: 4, Expected: 0004
+# 50. Accuracy: 96.000000, Detected number: 4, Expected: 0004
+# 51. Accuracy: 96.078431, Detected number: 6, Expected: 0006
+# 52. Accuracy: 96.153846, Detected number: 3, Expected: 0003
+# 53. Accuracy: 96.226415, Detected number: 5, Expected: 0005
+# 54. Accuracy: 96.296296, Detected number: 5, Expected: 0005
+# 55. Accuracy: 96.363636, Detected number: 6, Expected: 0006
+# 56. Accuracy: 96.428571, Detected number: 0, Expected: 0000
+# 57. Accuracy: 96.491228, Detected number: 4, Expected: 0004
+# 58. Accuracy: 96.551724, Detected number: 1, Expected: 0001
+# 59. Accuracy: 96.610169, Detected number: 9, Expected: 0009
+# 60. Accuracy: 96.666667, Detected number: 5, Expected: 0005
+# 61. Accuracy: 96.721311, Detected number: 7, Expected: 0007
+# 62. Accuracy: 96.774194, Detected number: 8, Expected: 0008
+# 63. Accuracy: 96.825397, Detected number: 9, Expected: 0009
+# 64. Accuracy: 96.875000, Detected number: 3, Expected: 0003
+# 65. Accuracy: 96.923077, Detected number: 7, Expected: 0007
+# 66. Accuracy: 96.969697, Detected number: 4, Expected: 0004
+# 67. Accuracy: 97.014925, Detected number: 6, Expected: 0006
+# 68. Accuracy: 97.058824, Detected number: 4, Expected: 0004
+# 69. Accuracy: 97.101449, Detected number: 3, Expected: 0003
+# 70. Accuracy: 97.142857, Detected number: 0, Expected: 0000
+# 71. Accuracy: 97.183099, Detected number: 7, Expected: 0007
+# 72. Accuracy: 97.222222, Detected number: 0, Expected: 0000
+# 73. Accuracy: 97.260274, Detected number: 2, Expected: 0002
+# 74. Accuracy: 97.297297, Detected number: 9, Expected: 0009
+# 75. Accuracy: 97.333333, Detected number: 1, Expected: 0001
+# 76. Accuracy: 97.368421, Detected number: 7, Expected: 0007
+# 77. Accuracy: 97.402597, Detected number: 3, Expected: 0003
+# 78. Accuracy: 97.435897, Detected number: 2, Expected: 0002
+# 79. Accuracy: 97.468354, Detected number: 9, Expected: 0009
+# 80. Accuracy: 97.500000, Detected number: 7, Expected: 0007
+# 81. Accuracy: 97.530864, Detected number: 7, Expected: 0007
+# 82. Accuracy: 97.560976, Detected number: 6, Expected: 0006
+# 83. Accuracy: 97.590361, Detected number: 2, Expected: 0002
+# 84. Accuracy: 97.619048, Detected number: 7, Expected: 0007
+# 85. Accuracy: 97.647059, Detected number: 8, Expected: 0008
+# 86. Accuracy: 97.674419, Detected number: 4, Expected: 0004
+# 87. Accuracy: 97.701149, Detected number: 7, Expected: 0007
+# 88. Accuracy: 97.727273, Detected number: 3, Expected: 0003
+# 89. Accuracy: 97.752809, Detected number: 6, Expected: 0006
+# 90. Accuracy: 97.777778, Detected number: 1, Expected: 0001
+# 91. Accuracy: 97.802198, Detected number: 3, Expected: 0003
+# 92. Accuracy: 97.826087, Detected number: 6, Expected: 0006
+# 93. Accuracy: 97.849462, Detected number: 9, Expected: 0009
+# 94. Accuracy: 97.872340, Detected number: 3, Expected: 0003
+# 95. Accuracy: 97.894737, Detected number: 1, Expected: 0001
+# 96. Accuracy: 97.916667, Detected number: 4, Expected: 0004
+# 97. Accuracy: 97.938144, Detected number: 1, Expected: 0001
+# 98. Accuracy: 97.959184, Detected number: 7, Expected: 0007
+# 99. Accuracy: 97.979798, Detected number: 6, Expected: 0006
+# 100. Accuracy: 98.000000, Detected number: 9, Expected: 0009
+# Accuracy: 98.000000
+# ** Note: $stop    : C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v(250)
+#    Time: 900235 ns  Iteration: 1  Instance: /top_sim
+# Break in Module top_sim at C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v line 250
+# End time: 18:46:34 on Jul 11,2026, Elapsed time: 0:00:55
+# Errors: 0, Warnings: 85

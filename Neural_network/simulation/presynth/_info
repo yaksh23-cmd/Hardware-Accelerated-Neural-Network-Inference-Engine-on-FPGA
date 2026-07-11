@@ -1,0 +1,344 @@
+m255
+K4
+z2
+!s11f vlog 2024.3 2024.09, Sep 11 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Microchip_projects/personal/Neural_network/simulation
+vaxi_lite_wrapper
+2C:/Microchip_projects/personal/Neural_network/hdl/axi_lite_wrapper.v
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1783775733
+!i10b 1
+!s100 oIJ3eeZ26]b8J<7>TZ:aE1
+IKf`CoiIHQ02ZU;lJDI?zE0
+S1
+R0
+Z2 w1783764566
+8C:/Microchip_projects/personal/Neural_network/hdl/axi_lite_wrapper.v
+FC:/Microchip_projects/personal/Neural_network/hdl/axi_lite_wrapper.v
+!i122 120
+L0 4 443
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OW;L;2024.3;79
+r1
+!s85 0
+31
+!s108 1783775733.000000
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/axi_lite_wrapper.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/axi_lite_wrapper.v|
+!s101 -O0
+!i113 1
+Z5 o-sv -work presynth -O0
+Z6 !s92 +incdir+C:/Microchip_projects/personal/Neural_network/hdl -sv -work presynth -O0
+Z7 tCvgOpt 0
+vLayer_1
+2C:/Microchip_projects/personal/Neural_network/hdl/Layer_1.v
+R1
+Z8 !s110 1783775736
+!i10b 1
+!s100 iE`bdX?h;`4=@J9U[fBz^3
+IHT9ZnWkeBTcN4gXTL:mD=0
+S1
+R0
+R2
+8C:/Microchip_projects/personal/Neural_network/hdl/Layer_1.v
+FC:/Microchip_projects/personal/Neural_network/hdl/Layer_1.v
+!i122 125
+Z9 L0 1 436
+R3
+R4
+r1
+!s85 0
+31
+Z10 !s108 1783775736.000000
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/Layer_1.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/Layer_1.v|
+!s101 -O0
+!i113 1
+R5
+R6
+R7
+n@layer_1
+vLayer_2
+2C:/Microchip_projects/personal/Neural_network/hdl/Layer_2.v
+R1
+R8
+!i10b 1
+!s100 L16lD<5UPDg>md^celMmX0
+IR>`m<GQLiE>0LDWhO=Rz22
+S1
+R0
+R2
+8C:/Microchip_projects/personal/Neural_network/hdl/Layer_2.v
+FC:/Microchip_projects/personal/Neural_network/hdl/Layer_2.v
+!i122 126
+R9
+R3
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/Layer_2.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/Layer_2.v|
+!s101 -O0
+!i113 1
+R5
+R6
+R7
+n@layer_2
+vLayer_3
+2C:/Microchip_projects/personal/Neural_network/hdl/Layer_3.v
+R1
+Z11 !s110 1783775737
+!i10b 1
+!s100 Ya?g=l8PBFZ9=G96>NUk93
+I;A6UB7JLdP5JmKk:AnB8k2
+S1
+R0
+R2
+8C:/Microchip_projects/personal/Neural_network/hdl/Layer_3.v
+FC:/Microchip_projects/personal/Neural_network/hdl/Layer_3.v
+!i122 127
+Z12 L0 1 156
+R3
+R4
+r1
+!s85 0
+31
+Z13 !s108 1783775737.000000
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/Layer_3.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/Layer_3.v|
+!s101 -O0
+!i113 1
+R5
+R6
+R7
+n@layer_3
+vLayer_4
+2C:/Microchip_projects/personal/Neural_network/hdl/Layer_4.v
+R1
+R11
+!i10b 1
+!s100 bmRJkW6YjJoKIVR[mBg<D1
+I?Yl8FPmz>^3?_ZJ54CgU]3
+S1
+R0
+R2
+8C:/Microchip_projects/personal/Neural_network/hdl/Layer_4.v
+FC:/Microchip_projects/personal/Neural_network/hdl/Layer_4.v
+!i122 128
+R12
+R3
+R4
+r1
+!s85 0
+31
+R13
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/Layer_4.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/Layer_4.v|
+!s101 -O0
+!i113 1
+R5
+R6
+R7
+n@layer_4
+vmaxFinder
+2C:/Microchip_projects/personal/Neural_network/hdl/maxFinder.v
+R1
+Z14 !s110 1783775738
+!i10b 1
+!s100 5^EzHm]JdLHGWg03NKARO2
+IdgY7SAPXFYK]fc?DC[DOB2
+S1
+R0
+w1783764561
+8C:/Microchip_projects/personal/Neural_network/hdl/maxFinder.v
+FC:/Microchip_projects/personal/Neural_network/hdl/maxFinder.v
+!i122 129
+L0 1 39
+R3
+R4
+r1
+!s85 0
+31
+Z15 !s108 1783775738.000000
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/maxFinder.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/maxFinder.v|
+!s101 -O0
+!i113 1
+R5
+R6
+R7
+nmax@finder
+vneuron
+2C:/Microchip_projects/personal/Neural_network/hdl/neuron.v
+R1
+Z16 !s110 1783775735
+!i10b 1
+!s100 AbIFTA6V6nR2_4jBd^fjN2
+I9NCaAVj^Nh?JzVeZcJT@^1
+S1
+R0
+R2
+8C:/Microchip_projects/personal/Neural_network/hdl/neuron.v
+FC:/Microchip_projects/personal/Neural_network/hdl/neuron.v
+!i122 124
+L0 24 181
+R3
+R4
+r1
+!s85 0
+31
+Z17 !s108 1783775735.000000
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/include.v|C:/Microchip_projects/personal/Neural_network/hdl/neuron.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/neuron.v|
+!s101 -O0
+!i113 1
+R5
+R6
+R7
+vReLU
+2C:/Microchip_projects/personal/Neural_network/hdl/relu.v
+R1
+Z18 !s110 1783775734
+!i10b 1
+!s100 KEFCdCkj?Y8`]L<B<Y[F`3
+ID[U3bT`Z7oniJQ968UfZl0
+S1
+R0
+R2
+8C:/Microchip_projects/personal/Neural_network/hdl/relu.v
+FC:/Microchip_projects/personal/Neural_network/hdl/relu.v
+!i122 121
+L0 1 21
+R3
+R4
+r1
+!s85 0
+31
+Z19 !s108 1783775734.000000
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/relu.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/relu.v|
+!s101 -O0
+!i113 1
+R5
+R6
+R7
+n@re@l@u
+vSig_ROM
+2C:/Microchip_projects/personal/Neural_network/hdl/Sig_ROM.v
+R1
+R18
+!i10b 1
+!s100 >`A_jU3RiQ[:70UmYbCE>0
+Ib[lC^3d_^WKJjX0<H72`j0
+S1
+R0
+R2
+8C:/Microchip_projects/personal/Neural_network/hdl/Sig_ROM.v
+FC:/Microchip_projects/personal/Neural_network/hdl/Sig_ROM.v
+!i122 122
+L0 23 25
+R3
+R4
+r1
+!s85 0
+31
+R19
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/Sig_ROM.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/Sig_ROM.v|
+!s101 -O0
+!i113 1
+R5
+R6
+R7
+n@sig_@r@o@m
+vtop_sim
+2C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v
+R1
+!s110 1783775739
+!i10b 1
+!s100 O`OLnKG4ilkmXW7X;kHS@2
+I?KXz:bR^AFK8j8k>zl7iR0
+S1
+R0
+w1783768334
+8C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v
+FC:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v
+!i122 131
+L0 26 228
+R3
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/include.v|C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|+incdir+C:/Microchip_projects/personal/Neural_network/stimulus|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/stimulus/top_sim.v|
+!s101 -O0
+!i113 1
+R5
+!s92 +incdir+C:/Microchip_projects/personal/Neural_network/hdl +incdir+C:/Microchip_projects/personal/Neural_network/stimulus -sv -work presynth -O0
+R7
+vWeight_Memory
+2C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v
+R1
+R16
+!i10b 1
+!s100 QPjl9@QYm;ln_MFbC57MD3
+I1cB?AQKaAhnb7_JD5<TaW1
+S1
+R0
+R2
+8C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v
+FC:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v
+!i122 123
+L0 23 35
+R3
+R4
+r1
+!s85 0
+31
+R17
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/include.v|C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/Weight_Memory.v|
+!s101 -O0
+!i113 1
+R5
+R6
+R7
+n@weight_@memory
+vzyNet
+2C:/Microchip_projects/personal/Neural_network/hdl/zynet.v
+R1
+R14
+!i10b 1
+!s100 B9ehHYPzYkzbMnAfoCXAP0
+I>J@k>Bki8dAD57T;1z6Z83
+S1
+R0
+R2
+8C:/Microchip_projects/personal/Neural_network/hdl/zynet.v
+FC:/Microchip_projects/personal/Neural_network/hdl/zynet.v
+!i122 130
+L0 23 360
+R3
+R4
+r1
+!s85 0
+31
+R15
+!s107 C:/Microchip_projects/personal/Neural_network/hdl/include.v|C:/Microchip_projects/personal/Neural_network/hdl/zynet.v|
+!s90 -reportprogress|300|+incdir+C:/Microchip_projects/personal/Neural_network/hdl|-sv|-work|presynth|C:/Microchip_projects/personal/Neural_network/hdl/zynet.v|
+!s101 -O0
+!i113 1
+R5
+R6
+R7
+nzy@net
